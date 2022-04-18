@@ -2,7 +2,7 @@ package interviewQuestions2;
 
 import java.util.Scanner;
 
-public class Q02_ArmstrongNumber_4Digits {
+public class Q02_ArmstrongNumber_4Digits_ {
    /*
     Armstrong sayi:herhangi bir sayinin rakamlarinin kupleri toplami o sayiyi veriyorsa sayi  Armstrong sayidir
         (0, 1, 153, 370, 371, 407, 1634)

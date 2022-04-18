@@ -1,7 +1,7 @@
 package interviewQuestions2;
 import java.util.Random;
 
-public class JavaMathClassMethods {
+public class JavaMathClassMethods_ {
 
     public static void main(String[] args) {
         int a = -12;
