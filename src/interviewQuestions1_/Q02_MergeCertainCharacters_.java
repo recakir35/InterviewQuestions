@@ -2,7 +2,7 @@ package interviewQuestions1_;
 
 import java.util.Scanner;
 
-public class Q02_MergeCertainCharacters {
+public class Q02_MergeCertainCharacters_ {
     /*
      * Kulanicidan alinan bir Stringin ilk ve son harfini yine kulanicidan alinan sayi kadar
      * return eden metod yaziniz

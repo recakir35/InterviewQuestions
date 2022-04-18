@@ -1,8 +1,8 @@
-package interviewQuestions3;
+package interviewQuestions3_;
 
 import java.util.Arrays;
 
-public class Q06_MultiDimensolArray {
+public class Q06_MultiDimensolArray_ {
     /*
 int arr [][]={{7,12,97,23},{543,23,675},{2},{2,33,6,3,7}};
 verilen Array icinde
@@ -22,7 +22,7 @@ verilen Array icinde
                 sayac++; // Sayaç Artıyor
             }
         }
-        System.out.println("arr Dizisi: "+Arrays.deepToString(arr));
+        System.out.println("arr Dizisi: "+Arrays.deepToString(arr)); // arr dizisi yazdırılıyor
         System.out.println("arr dizisinde < " + sayac + " > eleman bulunuyor");
 
     }

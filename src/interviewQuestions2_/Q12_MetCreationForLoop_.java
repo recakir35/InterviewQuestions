@@ -1,8 +1,8 @@
-package interviewQuestions2;
+package interviewQuestions2_;
 
 import java.util.Scanner;
 
-public class Q12_MetCreationForLoop {
+public class Q12_MetCreationForLoop_ {
 
     /* Interview Question
      Write a Java program to reverse a string. Use for loop and create a method called
@@ -26,16 +26,3 @@ public class Q12_MetCreationForLoop {
     }
 }
 
-
-//           Scanner scan = new Scanner(System.in);
-//           System.out.print("Bir String Giriniz: ");
-//           String str = scan.nextLine();
-//           String tersStr="";
-//
-//           for (int i = 1; i <= str.length(); i++) {
-//               tersStr+=str.charAt(str.length()-i);
-//
-//           }
-//           System.out.println(tersStr);
-//     }
-//}

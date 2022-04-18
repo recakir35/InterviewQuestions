@@ -3,7 +3,7 @@ package interviewQuestions4;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Q02_CreateRandomList_SetList {
+public class Q02_CreateRandomList_SetList_ {
     // int array list oluşturun 10 elemandan oluşmalı
     // random ekle isinde void bir metod oluşturun  ve parametresi int array list olsun.
     // bu metod array list içinde 0' dan 20 ye kadar değer atasın.

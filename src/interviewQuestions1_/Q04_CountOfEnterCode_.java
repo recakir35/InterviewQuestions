@@ -2,7 +2,7 @@ package interviewQuestions1_;
 
 import java.util.Scanner;
 
-public class Q04_CountOfEnterCode {
+public class Q04_CountOfEnterCode_ {
     // STRING OLAN PIN kodunuzu kontrol eden bir kod yazınız.
 
     public static void main(String[] args) {

@@ -1,10 +1,9 @@
 package interviewQuestions4;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q01_UniqeArray {
+public class Q01_UniqeArray_ {
     /*
      * Verilen array deki tekrar eden sayilari, ilki haric silip, tekrarsiz
      * sayilardan olusan bir array haline getiren bir program yaziniz.

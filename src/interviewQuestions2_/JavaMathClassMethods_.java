@@ -1,4 +1,4 @@
-package interviewQuestions2;
+package interviewQuestions2_;
 import java.util.Random;
 
 public class JavaMathClassMethods_ {

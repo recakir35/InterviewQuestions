@@ -1,4 +1,4 @@
-package interviewQuestions2;
+package interviewQuestions2_;
 
 import java.util.Arrays;
 import java.util.Scanner;

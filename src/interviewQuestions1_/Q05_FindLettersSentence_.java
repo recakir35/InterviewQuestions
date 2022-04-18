@@ -2,7 +2,7 @@ package interviewQuestions1_;
 
 import java.util.Scanner;
 
-public class Q05_FindLettersSentence {
+public class Q05_FindLettersSentence_ {
 
     public static void main(String[] args) {
 
